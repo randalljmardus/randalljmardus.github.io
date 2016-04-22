@@ -1,1 +1,11 @@
-styles.css
+.jumbotron {
+	color: blue;
+   height: 300px;
+   margin-top: -50px;
+   margin-bottom: -50px;
+}
+.img-cicle {
+	border-radius: 50%;
+	float: right;
+	height: 0px;
+}
