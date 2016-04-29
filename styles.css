@@ -1,6 +1,6 @@
 #pic {
-	width: 300px;
-	height: 300px;
+	width: 400px;
+	height: 400px;
 }
 
 #thumbnailPic {
@@ -14,4 +14,8 @@
 
 #thumbnailContainer {
 	width: 1000px;
+}
+
+#jumboParagraph {
+	margin-top: 100px;
 }
