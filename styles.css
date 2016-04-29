@@ -1,11 +1,17 @@
-.jumbotron {
-	color: blue;
-   height: 300px;
-   margin-top: -50px;
-   margin-bottom: -50px;
+#pic {
+	width: 300px;
+	height: 300px;
 }
-.img-cicle {
-	border-radius: 50%;
-	float: right;
-	height: 0px;
+
+#thumbnailPic {
+	width: 200px;
+	height: 300px;
+}
+
+.Row {
+	height: 450px;
+}
+
+#thumbnailContainer {
+	width: 1000px;
 }
