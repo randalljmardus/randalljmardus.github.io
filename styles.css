@@ -19,3 +19,12 @@
 #jumboParagraph {
 	margin-top: 100px;
 }
+
+#containerHeader {
+	width: 1000px;
+	text-align: left;
+}
+
+#headerFont {
+	font-size: 30px;
+}
